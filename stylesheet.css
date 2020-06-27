@@ -1,0 +1,40 @@
+.img{
+	 float: right;
+	width: 150px;
+/*	border-radius: 80%;
+*/	margin: 0 60% 0 0;
+}
+.main{
+	
+	
+	margin-bottom: 0;
+
+
+}
+body{
+	background-color: #c3edea;
+/*	padding-left:5%;
+*/}
+table, th, td {
+  border: 1px solid black;
+}
+h3{
+	background-color: #1b1b2f;
+	color: silver;
+}
+
+.link-icon{
+	background-color: black;
+	margin: 1% 1% 1% 1%;
+
+}
+.object{
+	margin-top: 0;
+}
+.area{
+	
+	padding-bottom: 2%; 
+}
+.tablef{
+	margin-left: 2%;
+}
